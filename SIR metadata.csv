@@ -1,0 +1,19 @@
+,Description,Format
+Pos,Position in the Gomensoro respirometer,number
+SeqNo,Gomensoro sequential number,number
+Archivo,File name,text
+ID,ID of the sample,sequential number
+Peso,weigth,g
+Fecha,date and time,dd.mm.yyyy HH:MM:SS
+Preincubacion,Preincubation time,h
+Umbral,Threshold for biomass stimation,-
+M,Value at threshold,-
+Tiempo_h,Exact time at value M,h
+M_2.5h,Value M at 2.5 h,-
+mgCO2_2.5h_kg,"Calculations for Biomass (Beare et al., 1990)",mgCO2_h_kg
+BIOM_mgC_kg_2.5h_Beare,"Biomass based on Beare et al (1990) - Beare, M.H., Neely, C.L., Coleman, D.C., Hargrove, W.L. (1990). A substrate-induced respiration (SIR) method for measurement of fungal and bacterial biomas on plan residues",mgC_kg
+mgCO2_h_Mine2017,Biomass based on Minerva’s file (CBAS protocols as far as I understand),mgCO2_h
+mlCO2_h_Mine2017,Biomass based on Minerva’s file (CBAS protocols as far as I understand),mlCO2_h
+ml_h_g_Mine2017,"Calculations for Biomass (Ardenson & Domsch, 1978)",mlCO2_h_g
+mgCO2_h_kg_Mine2017,"Calculations for Biomass (Ardenson & Domsch, 1978)",mgCO2_h_kg
+BIOM_mgC_kg_Mine2017,"Calculations for Biomass (Ardenson & Domsch, 1978)",mgC_kg
